@@ -1,0 +1,4 @@
+theia@theia-manofgame111:/home/project/mcino-Introduction-to-Git-and-GitHub$ git branch -vv
+* bug-fix-revert 6c8acff [origin/main: ahead 2] Revert "fixing year typo on README.md"
+  bug-fix-typo   ed83d17 [origin/bug-fix-typo] fixing year typo on README.md
+  main           ed83d17 [origin/main: ahead 1] fixing year typo on README.md
